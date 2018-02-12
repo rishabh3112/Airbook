@@ -9,6 +9,6 @@ Computer Science project under Class 12 CBSE Curricullum
 ## Feedback
 - Raise Issue on github
 
-## Credits
+## Contributors
 - @rishabh3112
 - Siddarth tripathi
